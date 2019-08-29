@@ -39,7 +39,6 @@ final class ChatServer {
 
     /*
      * This is what starts the ChatServer.
-     * Right now it just creates the socketServer and adds a new ClientThread to a list to be handled
      */
     private void start() {
 
